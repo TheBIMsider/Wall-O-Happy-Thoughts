@@ -47,7 +47,16 @@ Fully responsive with touch-friendly controls and optimized layouts for mobile d
 The entire app was created from this single prompt:
 
 ```
-Build a fun and colorful mini web app using HTML, CSS, and JavaScript. The app should let users type in a short affirmation or positive thought and add it to a display wall. Each affirmation should appear as a floating bubble with a random gradient background. Each bubble should have a "💫 Highlight" button to enlarge and glow temporarily, and a "❌ Remove" button to pop it away with a smooth scale-out animation. Make the app mobile-friendly and use soft, cheerful animations. Keep all the code in one file and add comments to explain what each part does. Only show the code, no extra text.
+Build a fun and colorful mini web app using HTML, CSS, and
+JavaScript. The app should let users type in a short affirmation
+or positive thought and add it to a display wall. Each
+affirmation should appear as a floating bubble with a random
+gradient background. Each bubble should have a “💫 Highlight”
+button to enlarge and glow temporarily, and a “❌ Remove” button
+ to pop it away with a smooth scale-out animation. Make the app
+mobile-friendly and use soft, cheerful animations. Keep all the
+code in one file and add comments to explain what each part does.
+Only show the code, no extra text.
 ```
 
 ## 🎨 One-Prompt Creation
