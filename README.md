@@ -1,6 +1,6 @@
 # Wall-O Happy Thoughts 😃
 
-A fun, colorful mini web app that lets you create a wall of positive affirmations! Built as a test of one-prompt video coding using Claude Artifacts.
+A fun, colorful mini web app that lets you create a wall of positive affirmations! Built as part of the "Smarter with AI" blog's [**FriTorial #40: Create Stunning Mini Apps with Claude Artifacts**](https://www.smarterwithai.news/p/fritorial-40-create-stunning-mini-apps-with-claude-artifact). This was a fun way to test the power of Claude Artifacts!
 
 ## ✨ Features
 
@@ -36,9 +36,17 @@ open index.html
 
 Fully responsive with touch-friendly controls and optimized layouts for mobile devices.
 
+## 📝 Original Prompt
+
+The entire app was created from this single prompt:
+
+```
+Build a fun and colorful mini web app using HTML, CSS, and JavaScript. The app should let users type in a short affirmation or positive thought and add it to a display wall. Each affirmation should appear as a floating bubble with a random gradient background. Each bubble should have a "💫 Highlight" button to enlarge and glow temporarily, and a "❌ Remove" button to pop it away with a smooth scale-out animation. Make the app mobile-friendly and use soft, cheerful animations. Keep all the code in one file and add comments to explain what each part does. Only show the code, no extra text.
+```
+
 ## 🎨 One-Prompt Creation
 
-This entire project was created in a single prompt to Claude Artifacts, demonstrating rapid prototyping capabilities for web applications.
+This project demonstrates the power of Claude Artifacts for rapid web app prototyping, inspired by the "Smarter with AI" blog's exploration of AI-assisted development.
 
 ## 📄 License
 
