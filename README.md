@@ -30,9 +30,9 @@ git clone https://github.com/yourusername/wall-o-happy-thoughts.git
 # Open in browser
 open index.html
 ```
-# test in browser in out GitHub page
+## test in browser in out GitHub page
 
-
+[**Wall-O Happy Thoughts**](https://thebimsider.github.io/Wall-O-Happy-Thoughts/)
 
 ## 🛠️ Tech Stack
 
