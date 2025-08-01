@@ -13,6 +13,10 @@ A fun, colorful mini web app that lets you create a wall of positive affirmation
 - **Mobile Friendly**: Responsive design that works on all devices
 - **Smooth Animations**: Gentle floating motion and cheerful transitions
 
+## Live Publick Demo via the Artifact
+
+> 👆 Click [**Here**](https://claude.ai/public/artifacts/7b106b87-42ab-41ee-b263-fccc85471d6e)
+
 ## 🚀 Quick Start
 
 Just open `index.html` in your browser - no build process needed!
