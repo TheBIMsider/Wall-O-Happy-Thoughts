@@ -30,6 +30,9 @@ git clone https://github.com/yourusername/wall-o-happy-thoughts.git
 # Open in browser
 open index.html
 ```
+# test in browser in out GitHub page
+
+
 
 ## 🛠️ Tech Stack
 
