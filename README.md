@@ -50,7 +50,8 @@ This project demonstrates the power of Claude Artifacts for rapid web app protot
 
 ## 📄 License
 
-MIT License - feel free to use and modify!
+BSD-3-Clause License - see [LICENSE](LICENSE) file for details.
+
 
 ---
 
