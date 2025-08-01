@@ -1,6 +1,6 @@
 # Wall-O Happy Thoughts 😃
 
-A fun, colorful mini web app that lets you create a wall of positive affirmations! Built as part of the "Smarter with AI" blog's [**FriTorial #40: Create Stunning Mini Apps with Claude Artifacts**](https://www.smarterwithai.news/p/fritorial-40-create-stunning-mini-apps-with-claude-artifact). This was a fun way to test the power of Claude Artifacts!
+A fun, colorful mini web app that lets you create a wall of positive affirmations! Built as part of the [Smarter with AI](https://www.smarterwithai.news/) blog's [**FriTorial #40: Create Stunning Mini Apps with Claude Artifacts**](https://www.smarterwithai.news/p/fritorial-40-create-stunning-mini-apps-with-claude-artifact). This was a fun way to test the power of Claude Artifacts!
 
 ## ✨ Features
 
